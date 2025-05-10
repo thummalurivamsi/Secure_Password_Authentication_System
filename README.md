@@ -49,6 +49,9 @@ admin
 ---
 ## 📸 Project Media
 
+![Secure Password Authentication System output](https://github.com/user-attachments/assets/23179d2a-65c8-46c3-948f-d4f52db1f903)
+
+
 ## 🧠 Key Concepts Used
 
 - `fopen()`, `fscanf()` – for file I/O
